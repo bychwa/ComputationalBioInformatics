@@ -1,13 +1,11 @@
-//
-// To compile this Java program, type:
-//
-//	javac GlobalAlignment.java
-//
-// To run the program, type:
-//
-//	java GlobalAlignment
-//
 
+/*
+
+	Author: Jackson Isack - 19900710-7510
+	To compile run: javac GlobalAlignment.java
+	To run with standard output: java GlobalAlignment
+
+*/
 
 public class GlobalAlignment {
 
