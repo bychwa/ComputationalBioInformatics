@@ -4,6 +4,13 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
+/*
+
+	Author: Jackson Isack - 19900710-7510
+	To compile run: javac make_distance_map.java
+	To run with standard output: java make_distance_map filename.pdb
+
+*/
 
 public class make_distance_map{
 	
