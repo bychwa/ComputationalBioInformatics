@@ -1,13 +1,11 @@
-//
-// To compile this Java program, type:
-//
-//	javac Levenshtein.java
-//
-// To run the program, type:
-//
-//	java Levenshtein
-//
 
+/*
+
+	Author: Jackson Isack - 19900710-7510
+	To compile run: javac Levenshtein.java
+	To run with standard output: java Levenshtein
+
+*/
 
 public class Levenshtein {
 
