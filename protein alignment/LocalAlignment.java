@@ -1,12 +1,11 @@
-//
-// To compile this Java program, type:
-//
-//	javac LocalAlignment.java
-//
-// To run the program, type:
-//
-//	java LocalAlignment
-//
+
+/*
+
+	Author: Jackson Isack - 19900710-7510
+	To compile run: javac LocalAlignment.java
+	To run with standard output: java LocalAlignment
+
+*/
 
 
 public class LocalAlignment {
@@ -27,8 +26,6 @@ public class LocalAlignment {
 	int i, j;
 	int alignmentLength, score, tmp;
 
-	//String X = "ATCGAT"; 
-	//String Y = "ATACGT"; 
 	String X = "PAWHEAE";
 	String Y = "HDAGAWGHEQ";
 
